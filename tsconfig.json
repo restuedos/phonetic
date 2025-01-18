@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "nodenext", 
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "moduleResolution": "nodenext",
+    "sourceMap": true,
+    "target": "es2015",
+  },
+}

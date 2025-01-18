@@ -1,0 +1,21 @@
+{
+  "name": "phonetic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "build": "tsc main.ts --target es2015"
+  },
+  "keywords": [
+    "tenderboard",
+    "case-study",
+    "quiz"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
